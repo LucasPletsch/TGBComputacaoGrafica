@@ -4,7 +4,7 @@ Trabalho Grau B Computacao Gráfica
 Lucas dos Santos Pletsch
 
 __Objetivo do programa:__
-Este programa lê um arquivo se Setup de cena que contém uma lista de configurações da cena e de arquivos .obj.
+Este programa lê um arquivo de Setup de cena que contém uma lista de configurações da cena e de arquivos .obj.
 A partir da leitura dos .obj, são lidos seus respectivos .mtl, e lê também os arquivos de texturas indicados nos .mtl e renderiza
 a cena.
 
